@@ -13,3 +13,5 @@ readability-lxml
 trafilatura
 lxml
 #streamlit
+langchain_tavily
+rich
